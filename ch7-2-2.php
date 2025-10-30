@@ -1,3 +1,6 @@
+<h1>SID:C112181112<BR>
+NAME:simon</h1>
+<p>
 <?php
 $arr["color"] = "紅色";
 $arr["name"] = "simom";
